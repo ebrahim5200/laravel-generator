@@ -1,6 +1,6 @@
 {
-    "name": "smartervision/laravel-generator",
-    "description": "Smarter Vision Generator",
+    "name": "ebrahim5200/laravel-generator",
+    "description": "forked from Smarter Vision Generator",
     "keywords": [
         "laravel",
         "api",
@@ -17,6 +17,10 @@
     ],
     "license": "MIT",
     "authors": [
+        {
+            "name": "ebrahim5200",
+            "email": "ebrahim5200@gmail.com"
+        },
         {
             "name": "Smarter Vision",
             "email": "smartersvision@gmail.com"
